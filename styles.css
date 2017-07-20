@@ -1,0 +1,43 @@
+
+.main img
+{
+	width:300px;
+	position:relative;
+	padding-bottom:10px;
+	
+}
+
+.menu ul{
+	list-style:none;
+	 padding: 0 0 0 0px;
+}
+.menu span
+{
+	font-weight:bold;
+	
+}
+.main 
+{
+	border:2px solid #ccc ;
+	box-shadow:3px 3px 3px 3px #e6e6e6;
+	width:300px;
+	padding:15px;
+	
+}
+ 
+.sub
+{
+	
+	border:2px solid #ccc ;
+	padding:5px;
+	background-color:#F1F2B5;
+}
+.ita 
+{
+	font-style:italic;
+}
+
+.sub
+{
+	padding:10px;
+}
